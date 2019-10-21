@@ -1,6 +1,5 @@
 # RISC-V Single Cycle Core Markhor
 ## Designed by Waleed Muhammad Sohail
-### Designed by Waleed Muhammad Sohail
 I am a student of 3rd sem BSE at UIT and I created this core being a part of MERL team. To try out this core or get it working for yourself, you should follow the instructions below.
 First of all get started by cloning this repository on your machine.  
 ```ruby
